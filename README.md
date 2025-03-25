@@ -29,7 +29,7 @@ Quando il server ha ricevuto un messaggio di completamento da parte di tutti i n
 
 ## 📖 Guida pratica di utilizzo del codice
 
-1) Eseguire run del codice 'ObjectServer.java'
+1) Eseguire codice 'ObjectServer.java'
 2) Eseguire 3 volte il codice 'ObjectClient.java'
 
 
