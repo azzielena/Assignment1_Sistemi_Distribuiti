@@ -1,4 +1,4 @@
-# Assegnamento 1 Sviluppo di un sistema client-server basato su socket e comunicazione multicast
+# Assegnamento 1: Sviluppo di un sistema client-server basato su socket e comunicazione multicast
 Questo assegnamento è stato realizzato da **[Elena Azzi](https://github.com/azzielena)** per il corso di Sistemi Distribuiti erogato dall'Università di Parma.
 
 ---
